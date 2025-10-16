@@ -1,1 +1,3 @@
 music_controller/settings.py
+db.sqlite3
+frontend/node_modules/

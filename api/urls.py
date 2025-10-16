@@ -3,6 +3,6 @@ from .views import *
 
 
 urlpatterns = [
-    path('', main),
+    path('', RoomView.as_view()),
 
 ]
